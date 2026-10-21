@@ -1,0 +1,10 @@
+.build/
+dist/
+build/
+.DS_Store
+Resources/Java/
+Resources/JS/
+Resources/Bin/
+Resources/Runtime/
+office/js/node_modules/
+Captura de Tela*.png

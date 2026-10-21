@@ -1,0 +1,8 @@
+{
+  "name": "toranja-office-js",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "esbuild index.js --bundle --format=iife --minify --target=safari17 --outfile=../../Resources/JS/office.js" },
+  "dependencies": { "cupertino-files": "0.4.0", "docx-preview": "0.4.1", "jszip": "3.10.1" },
+  "devDependencies": { "esbuild": "0.25.10" }
+}
